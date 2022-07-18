@@ -1,6 +1,6 @@
 # ./Dockerfile
 
-FROM golang:1.17-alpine AS build
+FROM golang:1.18.4-alpine AS build
 
 RUN apk --no-cache add build-base=0.5-r2
 
