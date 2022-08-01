@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0
-	github.com/go-co-op/gocron v1.9.0
+	github.com/go-co-op/gocron v1.16.1
 	github.com/gofiber/fiber/v2 v2.22.0
 	github.com/gofiber/jwt/v3 v3.2.1
 	github.com/gofiber/template v1.6.19
